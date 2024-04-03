@@ -1,7 +1,6 @@
 # ===========================================================================
 #       http://www.gnu.org/software/autoconf-archive/ax_boost_base.html
 # ===========================================================================
-#
 # SYNOPSIS
 #
 #   AX_BOOST_BASE([MINIMUM-VERSION], [ACTION-IF-FOUND], [ACTION-IF-NOT-FOUND])
